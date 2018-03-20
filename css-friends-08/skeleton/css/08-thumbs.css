@@ -1,0 +1,11 @@
+/* PHASE 8: Thumbs */
+.profile-friends {
+  /* float: left; */
+  display: flex;
+  height: 600px;
+  width: 600px;
+}
+
+.profile-friends:nth-child(3) {
+
+}
